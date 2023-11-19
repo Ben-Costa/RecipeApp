@@ -1,0 +1,13 @@
+{
+    "name": "recipe-backend",
+    "version": "1.0.0",
+    "description": "Backend for Recipe Storage Application",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.0.13"
+    }
+  }
